@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}\\Include",
+                // vcpkg 第三方包管理器的include  内有opencv2、zlib等
+                "D:\\myDevEnv\\vcpkg\\installed\\x64-windows\\include",
+                "D:\\Program Files (x86)\\ART\\USB5935\\Driver\\INF\\Win32&Win64"
+            ],
+            "defines": [
+                "WIN32",
+                "_DEBUG",
+                "_CONSOLE",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "windows-msvc-x64",
+            "mergeConfigurations": true,
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+					"${workspaceFolder}/*",
+                    "${workspaceFolder}/Source/*"                    
+                ]
+                
+            }
+        }
+    ],
+    "version": 4
+}

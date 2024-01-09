@@ -1,0 +1,2 @@
+D:\WinKu\Desktop\CS\vs2019\experiments\Debug\ex3.exe.lastcodeanalysissucceeded
+D:\WinKu\Desktop\CS\vs2019\experiments\ex3\Debug\NativeCodeAnalysis.read.1.tlog
