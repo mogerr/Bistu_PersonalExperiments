@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.ucf": "r",
+        "107_32_driver_io16.h": "c",
+        "font.h": "c",
+        "107_32_driver_io16_ucosii.h": "c",
+        "ucos_ii.h": "c",
+        "stdlib.h": "c",
+        "hw_config.h": "c",
+        "stdio.h": "c",
+        "app.h": "c",
+        "stm32f10x.h": "c",
+        "stm32f10x_conf.h": "c"
+    }
+}
